@@ -1,0 +1,37 @@
+﻿@model FacultyInformationSystem_MVCCore.Grant
+@{ ViewData["Title"] = "Details"; }
+<div class="p-3 mb-2 bg-dark text-white"><h2>Details</h2></div>
+<div>
+    <hr />
+    <p>
+        <a class="btn btn-secondary " data-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">Show Less </a>
+        <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">More</button>
+        @*<button class="btn btn-primary" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2">More</button>*@
+    </p>
+    <div class="row">
+        <div class="col">
+            <div class="collapse multi-collapse" id="multiCollapseExample1">
+                <div class="card card-body">
+                    <p class="font-weight-bold">Grant Title:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.GrantTitle)</p>
+                    <p class="font-weight-bold">GrantDescription:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.GrantDescription)</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="collapse multi-collapse" id="multiCollapseExample2">
+                <div class="card card-body">
+                    <p class="font-weight-bold">Grant ID:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.GrantId)</p>
+                    <p class="font-weight-bold">Faculty ID:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.FacultyId)</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.FacultyId }) |
+    <a asp-action="Index">Back to List</a>
+</div>

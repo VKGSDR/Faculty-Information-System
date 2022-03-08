@@ -1,0 +1,74 @@
+﻿@model IEnumerable<FacultyInformationSystem_MVCCore.WorkHistory>
+
+@{
+    ViewData["Title"] = "Work History Details";
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            @*<th>
+                    @Html.DisplayNameFor(model => model.WorkHistoryId)
+                </th>*@
+            @*<th>
+                    @Html.DisplayNameFor(model => model.FacultyId)
+                </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.Organization)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JobTitle)
+            </th>
+            @*<th>
+                    @Html.DisplayNameFor(model => model.JobBeginDate)
+                </th>*@
+            @*<th>
+                    @Html.DisplayNameFor(model => model.JobEndDate)
+                </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.JobResponsibilities)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JobType)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.WorkHistoryId)
+                    </td>*@
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.FacultyId)
+                    </td>*@
+                <td>
+                    @Html.DisplayFor(modelItem => item.Organization)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.JobTitle)
+                </td>
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.JobBeginDate)
+                    </td>*@
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.JobEndDate)
+                    </td>*@
+                <td>
+                    @Html.DisplayFor(modelItem => item.JobResponsibilities)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.JobType)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit","WorkHistory", new { id = item.WorkHistoryId }) |
+                    @Html.ActionLink("Details", "Details","WorkHistory", new { id = item.WorkHistoryId }) |
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

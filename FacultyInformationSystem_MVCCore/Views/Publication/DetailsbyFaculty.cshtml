@@ -1,0 +1,68 @@
+﻿@model IEnumerable<FacultyInformationSystem_MVCCore.Publication>
+
+@{
+    ViewData["Title"] = "Publication Details";
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            @*<th>
+            @Html.DisplayNameFor(model => model.PublicationId)
+        </th>*@
+            @*<th>
+            @Html.DisplayNameFor(model => model.FacultyId)
+        </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.PublicationTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ArticleName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PublisherName)
+            </th>
+            @*<th>
+            @Html.DisplayNameFor(model => model.PublicationLocation)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CitationDate)
+        </th>*@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            @*<td>
+            @Html.DisplayFor(modelItem => item.PublicationId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FacultyId)
+        </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.PublicationTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArticleName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PublisherName)
+            </td>
+            @*<td>
+            @Html.DisplayFor(modelItem => item.PublicationLocation)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CitationDate)
+        </td>*@
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Publication", new { id = item.PublicationId }) |
+                @Html.ActionLink("Details", "Details", "Publication", new { id = item.PublicationId }) |
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,129 @@
+﻿@model FacultyInformationSystem_MVCCore.Faculty
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Faculty</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @Html.HiddenFor(model => model.FacultyId)
+            @*<div class="form-group">
+                    <label asp-for="FacultyId" class="control-label"></label>
+                    <input asp-for="FacultyId" class="form-control" />
+                    <span asp-validation-for="FacultyId" class="text-danger"></span>
+                </div>*@
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FacultyAddress" class="control-label"></label>
+                <input asp-for="FacultyAddress" class="form-control" />
+                <span asp-validation-for="FacultyAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="City" class="control-label"></label>
+                <input asp-for="City" class="form-control" />
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FacultyState" class="control-label"></label>
+                <input asp-for="FacultyState" class="form-control" />
+                <span asp-validation-for="FacultyState" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pincode" class="control-label"></label>
+                <input asp-for="Pincode" class="form-control" />
+                <span asp-validation-for="Pincode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MobileNo" class="control-label"></label>
+                <input asp-for="MobileNo" class="form-control" />
+                <span asp-validation-for="MobileNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HireDate" class="control-label"></label>
+                <input asp-for="HireDate" class="form-control" />
+                <span asp-validation-for="HireDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmailAddress" class="control-label"></label>
+                <input asp-for="EmailAddress" class="form-control" />
+                <span asp-validation-for="EmailAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateOfBirth" class="control-label"></label>
+                <input asp-for="DateOfBirth" class="form-control" />
+                <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DeptId" class="control-label"></label>
+                <select asp-for="DeptId" class="form-control">
+                    <option selected value="Select DeptId">Select Department Id</option>
+                    <option value="1011">1011</option>
+                    <option value="1012">1012</option>
+                    <option value="1013">1013</option>
+                    <option value="1014">1014</option>
+                    <option value="1015">1015</option>
+                    <option value="1016">1016</option>
+                    <option value="1017">1017</option>
+                    <option value="1018">1018</option>
+                    <option value="1019">1019</option>
+                </select>
+                <span asp-validation-for="DeptId" class="text-danger"></span>
+            </div>
+
+            @*<div class="form-group">
+                    <label asp-for="DesignationId" class="control-label"></label>
+                    <input asp-for="DesignationId" class="form-control" />
+                    <span asp-validation-for="DesignationId" class="text-danger"></span>
+                </div>*@
+
+            <div class="form-group">
+                <label asp-for="DesignationId" class="control-label"></label>
+                <select asp-for="DesignationId" class="form-control">
+                    <option selected value="Select DesignationId">Select Designation Id</option>
+                    <option value="1041">1041</option>
+                    <option value="1042">1042</option>
+                    <option value="1043">1043</option>
+                    <option value="1044">1044</option>
+                    <option value="1045">1045</option>
+                    <option value="1046">1046</option>
+                    <option value="1047">1047</option>
+                    <option value="1048">1048</option>
+                    <option value="1049">1049</option>
+                </select>
+                <span asp-validation-for="DesignationId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserName" class="control-label"></label>
+                <input asp-for="UserName" class="form-control" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,59 @@
+﻿@model IEnumerable<FacultyInformationSystem_MVCCore.Designation>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<script src="~/js/Custom.js"></script>
+<h1>Index</h1>
+
+<p>
+    <button type="button" class="btn btn-outline-success"> <a asp-action="Create">Create New</a></button>
+</p>
+@if (TempData["AlertMessage"] != null)
+{
+    <div class="alert alert-success">
+        <strong>Success!&nbsp;</strong>@TempData["AlertMessage"]
+    </div>}
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            @*<th>
+                    @Html.DisplayNameFor(model => model.DesignationId)
+                </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.DesignationName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.DesignationId)
+                    </td>*@
+                <td>
+                    @Html.DisplayFor(modelItem => item.DesignationName)
+                </td>
+                <td>
+                    <button type="button" class="btn btn-outline-dark">
+                        @Html.ActionLink("Edit", "Edit", new { id = item.DesignationId })
+                        <style>
+                            a:hover {
+                                color: #FFFFFF;
+                            }
+                        </style>
+                    </button>
+                    <button type="button" class="btn btn-outline-primary">@Html.ActionLink("Details", "Details", new { id = item.DesignationId }) </button>
+                    <button type="button" class="btn btn-outline-danger">
+                        @Html.ActionLink("Delete", "Delete", new { id = item.DesignationId }, new { onclick = "return confirm('Are you sure you wish to delete this record?');" })
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<button type="button" class="btn btn-outline-danger">
+    @Html.ActionLink("Back", "AdminProfile", "Auth")
+</button>

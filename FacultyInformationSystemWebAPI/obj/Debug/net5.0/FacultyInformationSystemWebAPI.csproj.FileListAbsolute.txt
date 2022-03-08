@@ -1,0 +1,704 @@
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/appsettings.json
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.exe
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.deps.json
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.runtimeconfig.json
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.runtimeconfig.dev.json
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ref/FacultyInformationSystemWebAPI.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.pdb
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Humanizer.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.Convention.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.Hosting.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.Runtime.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.TypedParts.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.csproj.AssemblyReference.cache
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.AssemblyInfoInputs.cache
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.AssemblyInfo.cs
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/staticwebassets/FacultyInformationSystemWebAPI.StaticWebAssets.Manifest.cache
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/staticwebassets/FacultyInformationSystemWebAPI.StaticWebAssets.xml
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/scopedcss/bundle/FacultyInformationSystemWebAPI.styles.css
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.RazorTargetAssemblyInfo.cache
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.csproj.CopyComplete
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/ref/FacultyInformationSystemWebAPI.dll
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.pdb
+C:/Users/Priyanka Ghule/source/repos/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.genruntimeconfig.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/appsettings.Development.json
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/appsettings.json
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.exe
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.deps.json
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.runtimeconfig.json
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.runtimeconfig.dev.json
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ref/FacultyInformationSystemWebAPI.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.pdb
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Humanizer.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Newtonsoft.Json.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.Convention.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.Hosting.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.Runtime.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.TypedParts.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Runtime.Caching.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.AssemblyInfoInputs.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.AssemblyInfo.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.csproj.CoreCompileInputs.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/staticwebassets/FacultyInformationSystemWebAPI.StaticWebAssets.Manifest.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/staticwebassets/FacultyInformationSystemWebAPI.StaticWebAssets.xml
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/scopedcss/bundle/FacultyInformationSystemWebAPI.styles.css
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.RazorTargetAssemblyInfo.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/ref/FacultyInformationSystemWebAPI.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.pdb
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.genruntimeconfig.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.csproj.CopyComplete
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/appsettings.json
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.exe
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.deps.json
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.runtimeconfig.json
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.runtimeconfig.dev.json
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ref/FacultyInformationSystemWebAPI.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.pdb
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Humanizer.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.Convention.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.Hosting.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.Runtime.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.TypedParts.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.csproj.AssemblyReference.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.AssemblyInfoInputs.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.AssemblyInfo.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/staticwebassets/FacultyInformationSystemWebAPI.StaticWebAssets.Manifest.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/staticwebassets/FacultyInformationSystemWebAPI.StaticWebAssets.xml
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/scopedcss/bundle/FacultyInformationSystemWebAPI.styles.css
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.RazorTargetAssemblyInfo.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.csproj.CopyComplete
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/ref/FacultyInformationSystemWebAPI.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.pdb
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.genruntimeconfig.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/appsettings.json
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.exe
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.deps.json
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.runtimeconfig.json
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.runtimeconfig.dev.json
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ref/FacultyInformationSystemWebAPI.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.pdb
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Humanizer.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.Convention.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.Hosting.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.Runtime.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.TypedParts.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.csproj.AssemblyReference.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.AssemblyInfoInputs.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.AssemblyInfo.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/staticwebassets/FacultyInformationSystemWebAPI.StaticWebAssets.Manifest.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/staticwebassets/FacultyInformationSystemWebAPI.StaticWebAssets.xml
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/scopedcss/bundle/FacultyInformationSystemWebAPI.styles.css
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.RazorTargetAssemblyInfo.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.csproj.CopyComplete
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/ref/FacultyInformationSystemWebAPI.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.pdb
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.genruntimeconfig.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/appsettings.Development.json
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/appsettings.json
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.deps.json
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.runtimeconfig.json
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.runtimeconfig.dev.json
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ref/FacultyInformationSystemWebAPI.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/FacultyInformationSystemWebAPI.pdb
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Humanizer.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Newtonsoft.Json.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.Convention.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.Hosting.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.Runtime.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Runtime.Caching.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.csproj.AssemblyReference.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.AssemblyInfoInputs.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.AssemblyInfo.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.csproj.CoreCompileInputs.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.MvcApplicationPartsAssemblyInfo.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.MvcApplicationPartsAssemblyInfo.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/staticwebassets/FacultyInformationSystemWebAPI.StaticWebAssets.Manifest.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/staticwebassets/FacultyInformationSystemWebAPI.StaticWebAssets.xml
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/scopedcss/bundle/FacultyInformationSystemWebAPI.styles.css
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.RazorTargetAssemblyInfo.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.csproj.CopyComplete
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/ref/FacultyInformationSystemWebAPI.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.pdb
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystemWebAPI/obj/Debug/net5.0/FacultyInformationSystemWebAPI.genruntimeconfig.cache

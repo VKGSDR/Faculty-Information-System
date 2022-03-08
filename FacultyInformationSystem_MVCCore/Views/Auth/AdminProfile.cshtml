@@ -1,0 +1,59 @@
+﻿@*@model FacultyInformationSystem_MVCCore.Faculty*@
+@{
+    //ViewData.Title = "Faculty Information System";
+
+    <div class="text-center">
+        <h1>Hello Admin</h1>
+        <h2 class="display-4">Welcome to Faculty Information System</h2>
+
+    </div>
+}
+<hr />
+<div>
+    <ul class="list-group">
+        <li class="list-group-item">
+            <button type="button" class="btn btn-info">@Html.ActionLink("Faculty Personal Information", "Index", "Faculty")</button>
+        </li>
+        <li class="list-group-item">
+            <button type="button" class="btn btn-primary">
+                @Html.ActionLink("Department", "Index", "Department Information")
+                <style>
+                    a {
+                        color: #FFFFFF;
+                    }
+                </style>
+            </button>
+        </li>
+        <li class="list-group-item">
+            <button type="button" class="btn btn-secondary">
+                @Html.ActionLink("Course Information", "Index", "Course")
+            </button>
+        </li>
+        <li class="list-group-item">
+            <button type="button" class="btn btn-success">
+                @Html.ActionLink("Subject Information", "Index", "Subject")
+            </button>
+        </li>
+        <li class="list-group-item">
+            <button type="button" class="btn btn-danger">
+                @Html.ActionLink("Designation Information", "Index", "Designation")
+            </button>
+        </li>
+        <li class="list-group-item">
+            <button type="button" class="btn btn-warning">
+                @Html.ActionLink("Publication Information", "Index", "Publication")
+            </button>
+        </li>
+        <li class="list-group-item">
+            <button type="button" class="btn btn-info">
+                @Html.ActionLink("Grant Information", "Index", "Grant")
+            </button>
+        </li>
+        <li class="list-group-item">
+            <button type="button" class="btn btn-info">
+                @Html.ActionLink("Work History Information", "Index", "WorkHistory")
+            </button>
+        </li>
+    </ul>
+    
+</div>

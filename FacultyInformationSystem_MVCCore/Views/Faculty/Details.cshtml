@@ -1,0 +1,57 @@
+﻿@model FacultyInformationSystem_MVCCore.Faculty
+@{ ViewData["Title"] = "Details"; }
+<div class="p-3 mb-2 bg-dark text-white"><h2>Details</h2></div>
+<div>
+    <hr />
+    <p>
+        <a class="btn btn-secondary " data-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">Show Less </a>
+        <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">More</button>
+        @*<button class="btn btn-primary" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2">More</button>*@
+    </p>
+    <div class="row">
+        <div class="col">
+            <div class="collapse multi-collapse" id="multiCollapseExample1">
+                <div class="card card-body">
+                    <p class="font-weight-bold">First Name:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.FirstName)</p>
+                    <p class="font-weight-bold">Last Name:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.LastName)</p>
+                    <p class="font-weight-bold">Mobile No: </p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.MobileNo)</p>
+                    <p class="font-weight-bold">Email Address: </p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.EmailAddress)</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="collapse multi-collapse" id="multiCollapseExample2">
+                <div class="card card-body">
+                    <p class="font-weight-bold">Faculty ID:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.FacultyId)</p>
+                    <p class="font-weight-bold">Faculty Address:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;@Html.DisplayFor(model => model.FacultyAddress)</p>
+                    <p class="font-weight-bold">City:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.City)</p>
+                    <p class="font-weight-bold">Faculty State:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.FacultyState)</p>
+                    <p class="font-weight-bold">Pin Code:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.Pincode)</p>
+                    <p class="font-weight-bold">Hire Date:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.HireDate)</p>
+                    <p class="font-weight-bold">Date of Birth:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.DateOfBirth)</p>
+                    <p class="font-weight-bold">Department ID:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.DeptId)</p>
+                    <p class="font-weight-bold">Designation ID:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.DesignationId)</p>
+                    <p class="font-weight-bold">Faculty State:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp; @Html.DisplayFor(model => model.UserName)</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.FacultyId }) |
+    <a asp-action="Index">Back to List</a>
+</div>

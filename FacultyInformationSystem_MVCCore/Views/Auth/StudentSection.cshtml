@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Student Section";
+}
+
+<div class="text-center">
+    <h2 class="display-4">Welcome to Faculty Information System</h2>
+    <h4>Your Own space to Access Information Related to Faculty</h4>
+</div>
+<hr />
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.ActionLink("Faculty Publication Information", "PublicationData", "Publication")
+        </dt>
+        <dt class="col-sm-2">
+            @Html.ActionLink("Faculty Contact Details", "Index", "Faculty")
+        </dt>
+    </dl>
+</div>

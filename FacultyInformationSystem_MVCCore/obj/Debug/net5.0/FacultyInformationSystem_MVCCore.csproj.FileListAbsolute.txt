@@ -1,0 +1,739 @@
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/appsettings.Development.json
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/appsettings.json
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.exe
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.deps.json
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.runtimeconfig.json
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.runtimeconfig.dev.json
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ref/FacultyInformationSystem_MVCCore.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.pdb
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.Views.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.Views.pdb
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Humanizer.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.Win32.SystemEvents.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Newtonsoft.Json.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.Convention.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.Hosting.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.Runtime.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.TypedParts.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Data.SqlClient.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Drawing.Common.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Security.AccessControl.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Security.Permissions.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Windows.Extensions.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/System.Drawing.Common.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/System.Drawing.Common.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.AccessControl.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/System.Windows.Extensions.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.GeneratedMSBuildEditorConfig.editorconfig
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.AssemblyInfoInputs.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.AssemblyInfo.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.csproj.CoreCompileInputs.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.MvcApplicationPartsAssemblyInfo.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorAssemblyInfo.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorAssemblyInfo.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/staticwebassets/FacultyInformationSystem_MVCCore.StaticWebAssets.Manifest.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/staticwebassets/FacultyInformationSystem_MVCCore.StaticWebAssets.xml
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/scopedcss/bundle/FacultyInformationSystem_MVCCore.styles.css
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.TagHelpers.input.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.TagHelpers.output.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorCoreGenerate.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Create.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Delete.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Details.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Edit.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Index.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Create.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Delete.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Details.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Edit.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Index.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorTargetAssemblyInfo.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorTargetAssemblyInfo.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.Views.pdb
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.csproj.CopyComplete
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/ref/FacultyInformationSystem_MVCCore.dll
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.pdb
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.genruntimeconfig.cache
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Index.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Create.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Details.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Delete.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Index.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Details.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Create.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Edit.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Delete.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Edit.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Index.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Details.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Create.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Edit.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Delete.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Index.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Details.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Create.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Edit.cshtml.g.cs
+D:/WEB API-20211218T123512Z-001/WEB API/after webapi controllers/FacultyInformationSystem/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Delete.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/appsettings.json
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.exe
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.deps.json
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.runtimeconfig.json
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.runtimeconfig.dev.json
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ref/FacultyInformationSystem_MVCCore.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.pdb
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.Views.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.Views.pdb
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Humanizer.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.Convention.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.Hosting.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.Runtime.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.TypedParts.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Data.SqlClient.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Drawing.Common.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Security.AccessControl.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Security.Permissions.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Windows.Extensions.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/System.Drawing.Common.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/System.Drawing.Common.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.AccessControl.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/System.Windows.Extensions.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.csproj.AssemblyReference.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.AssemblyInfoInputs.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.AssemblyInfo.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.csproj.CoreCompileInputs.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorAssemblyInfo.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorAssemblyInfo.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/staticwebassets/FacultyInformationSystem_MVCCore.StaticWebAssets.Manifest.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/staticwebassets/FacultyInformationSystem_MVCCore.StaticWebAssets.xml
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/scopedcss/bundle/FacultyInformationSystem_MVCCore.styles.css
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.TagHelpers.input.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.TagHelpers.output.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorCoreGenerate.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/AddDetails.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/AdminProfile.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/Login.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/SignUpAsAdmin.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/SignUpAsFaculty.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/StudentSection.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Delete.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Delete.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Delete.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Delete.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Delete.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Home/AboutUs.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Delete.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Subject/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Subject/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Subject/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Subject/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorTargetAssemblyInfo.cache
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorTargetAssemblyInfo.cs
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.Views.pdb
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.csproj.CopyComplete
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/ref/FacultyInformationSystem_MVCCore.dll
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.pdb
+C:/Users/Priyanka Ghule/Desktop/FacultyInformationSystemWebAPI-20211223T180117Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.genruntimeconfig.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/appsettings.json
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.exe
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.deps.json
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.runtimeconfig.json
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.runtimeconfig.dev.json
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ref/FacultyInformationSystem_MVCCore.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.pdb
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.Views.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.Views.pdb
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Humanizer.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.Convention.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.Hosting.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.Runtime.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.TypedParts.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Data.SqlClient.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Drawing.Common.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Security.AccessControl.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Security.Permissions.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Windows.Extensions.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/System.Drawing.Common.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/System.Drawing.Common.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.AccessControl.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/System.Windows.Extensions.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.csproj.AssemblyReference.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.AssemblyInfoInputs.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.AssemblyInfo.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.csproj.CoreCompileInputs.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorAssemblyInfo.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorAssemblyInfo.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/staticwebassets/FacultyInformationSystem_MVCCore.StaticWebAssets.Manifest.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/staticwebassets/FacultyInformationSystem_MVCCore.StaticWebAssets.xml
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/scopedcss/bundle/FacultyInformationSystem_MVCCore.styles.css
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.TagHelpers.input.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.TagHelpers.output.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorCoreGenerate.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/AddDetails.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/AdminProfile.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/FacultyProfile.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/Login.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/SignUpAsAdmin.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/SignUpAsFaculty.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/StudentSection.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Delete.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Delete.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Delete.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Delete.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Delete.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/DetailsbyFaculty.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Home/AboutUs.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Delete.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/DetailsbyFaculty.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/PublicationData.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Subject/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Subject/Delete.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Subject/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Subject/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Subject/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/Create.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/Delete.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/Details.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/DetailsbyFaculty.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/Edit.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/Index.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorTargetAssemblyInfo.cache
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorTargetAssemblyInfo.cs
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.Views.pdb
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.csproj.CopyComplete
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/ref/FacultyInformationSystem_MVCCore.dll
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.pdb
+C:/Users/Priyanka Ghule/Downloads/FacultyInformationSystemWebAPI-20211226T105951Z-001/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.genruntimeconfig.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/appsettings.Development.json
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/appsettings.json
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.deps.json
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.runtimeconfig.json
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.runtimeconfig.dev.json
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ref/FacultyInformationSystem_MVCCore.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.pdb
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.Views.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/FacultyInformationSystem_MVCCore.Views.pdb
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Humanizer.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Microsoft.Win32.SystemEvents.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/Newtonsoft.Json.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.Convention.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.Hosting.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.Runtime.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Data.SqlClient.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Drawing.Common.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Security.AccessControl.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Security.Permissions.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/System.Windows.Extensions.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/System.Drawing.Common.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/System.Drawing.Common.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.AccessControl.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/System.Windows.Extensions.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.csproj.AssemblyReference.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.AssemblyInfoInputs.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.AssemblyInfo.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.csproj.CoreCompileInputs.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.MvcApplicationPartsAssemblyInfo.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorAssemblyInfo.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorAssemblyInfo.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/staticwebassets/FacultyInformationSystem_MVCCore.StaticWebAssets.Manifest.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/staticwebassets/FacultyInformationSystem_MVCCore.StaticWebAssets.xml
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/scopedcss/bundle/FacultyInformationSystem_MVCCore.styles.css
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.TagHelpers.input.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.TagHelpers.output.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorCoreGenerate.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/AddDetails.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/AdminProfile.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/FacultyProfile.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/Index.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/Login.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/SignUpAsAdmin.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/SignUpAsFaculty.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Auth/StudentSection.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Create.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Delete.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Details.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Edit.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Course/Index.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Create.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Delete.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Details.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Edit.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Department/Index.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Create.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Delete.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Details.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Edit.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Designation/Index.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Create.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Delete.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Details.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Edit.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Faculty/Index.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Create.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Delete.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Details.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/DetailsbyFaculty.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Edit.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Grant/Index.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Home/AboutUs.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Create.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Delete.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Details.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/DetailsbyFaculty.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Edit.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/Index.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Publication/PublicationData.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Subject/Create.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Subject/Delete.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Subject/Details.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Subject/Edit.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/Subject/Index.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/Create.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/Delete.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/Details.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/DetailsbyFaculty.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/Edit.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/WorkHistory/Index.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorTargetAssemblyInfo.cache
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.RazorTargetAssemblyInfo.cs
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.Views.pdb
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.csproj.CopyComplete
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/ref/FacultyInformationSystem_MVCCore.dll
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.pdb
+/mnt/c/Vijay Kumar Gupta/FacultyInformationSystemWebAPI/FacultyInformationSystem_MVCCore/obj/Debug/net5.0/FacultyInformationSystem_MVCCore.genruntimeconfig.cache
